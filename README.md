@@ -75,6 +75,10 @@ pip install -r requirements.txt
 ## Author
 
 Semester 4 Bioinformatics Project
+Ravala Gnanasri Chowdary
+NagiReddy Bhavesh Reddy
+Pratheep Reddy
+Mamidala Som Praneeth Babu
 
 ## License
 
