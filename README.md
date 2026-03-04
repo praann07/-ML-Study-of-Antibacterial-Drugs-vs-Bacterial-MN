@@ -4,6 +4,10 @@
 
 This project analyzes the relationship between bacterial metabolic networks and antibacterial compounds from the ChEMBL database using machine learning approaches.
 
+## View Results
+
+**[Click here to view the complete analysis results with visualizations and explanations](https://praann07.github.io/-ML-Study-of-Antibacterial-Drugs-vs-Bacterial-MN/results/)**
+
 ## Objectives
 
 1. **Data Collection**: Gather antibacterial compound data from ChEMBL and metabolic network data
