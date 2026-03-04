@@ -76,8 +76,8 @@ pip install -r requirements.txt
 - ROC-AUC
 - Cross-validation scores
 ### Results
- 
-
+ https://praann07.github.io/-ML-Study-of-Antibacterial-Drugs-vs-Bacterial-MN/results/
+YOU CAN FINS THE RESULTS HERE ,WELL DESCRIPTED
 ## Author
 
 Semester 4 Bioinformatics Project
