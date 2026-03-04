@@ -72,7 +72,7 @@ pip install -r requirements.txt
 - ROC-AUC
 - Cross-validation scores
 ### Results
-<Figure size 1000x800 with 2 Axes><img width="927" height="790" alt="image" src="https://github.com/user-attachments/assets/4c49486b-7805-4570-aca7-76536ce94925" />
+ 
 
 ## Author
 
