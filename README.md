@@ -75,10 +75,13 @@ pip install -r requirements.txt
 ## Author
 
 Semester 4 Bioinformatics Project
-Ravala Gnanasri Chowdary
-NagiReddy Bhavesh Reddy
-Pratheep Reddy
-Mamidala Som Praneeth Babu
+Ravala Gnanasri Chowdary-cb.sc.u4aie24064@cb.students.amrita.edu
+
+NagiReddy Bhavesh Reddy-cb.sc.u4aie24034@cb.students.amrita.edu
+
+Pratheep Reddy-cb.sc.u4aie24021@cb.students.amrita.edu
+
+Mamidala Som Praneeth Babu-cb.sc.u4aie24029@cb.students.amrita.edu
 
 ## License
 
